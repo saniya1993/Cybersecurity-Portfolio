@@ -4,7 +4,7 @@
 
 **Research Fellow in Cybersecurity | University of the West of England (UWE Bristol)**
 
-I am a dedicated cybersecurity researcher and Research Fellow at the University of the West of England (UWE Bristol), holding a PhD in Electrical Engineering, with expertise in Artificial Intelligence, Federated Learning, IoT, and secure intelligent systems.
+I am a dedicated cybersecurity researcher and Research Fellow at the University of the West of England (UWE Bristol), holding a PhD in Electrical Engineering, with expertise in Artificial Intelligence, Wireless Communications, Federated Learning, IoT, and secure intelligent systems.
 
 I am passionate about advancing cybersecurity through innovative research, critical thinking, ethical responsibility, and continuous learning, with a particular interest in protecting emerging AI-driven technologies against evolving cyber threats.
 
