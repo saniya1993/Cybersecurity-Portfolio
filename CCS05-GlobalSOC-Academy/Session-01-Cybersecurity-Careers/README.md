@@ -160,42 +160,7 @@ These connections represent my personal research reflections rather than technic
 
 ---
 
-## 7. Next Steps
-
-Following this introductory session, my professional development priorities include:
-
-1. Continue participating in the remaining CCS05 training sessions.
-2. Develop practical skills in network security, phishing investigation, and security operations.
-3. Explore security monitoring, threat detection, and incident response workflows.
-4. Strengthen my understanding of offensive and defensive cybersecurity methodologies.
-5. Connect practical cybersecurity techniques with my research in adversarial machine learning and federated learning security.
-6. Document learning outcomes and practical exercises in my GitHub cybersecurity portfolio.
-7. Continue progressing through the Google Cybersecurity Professional Certificate alongside CCS05 training.
-
----
-
-## 8. Session Reference
-
-**Session Title:** Day 1 — Free Certification Program on Cybersecurity for CCS Members by GlobalSOC — Career Pathways
-
-**Date:** 26 October 2026
-**Platform:** Zoom
-**Meeting Notes Source:** Read AI (partial meeting recording and transcript)
-
-### Available Recording Chapters
-
-| Timestamp | Chapter                                    |
-| --------- | ------------------------------------------ |
-| 01:20     | Welcome and Session Setup                  |
-| 06:43     | Cyber Circle and Programme Purpose         |
-| 16:44     | GlobalSOC and Programme Structure          |
-| 21:29     | Curriculum Preview and Instructor Handoffs |
-
-**Documentation Note:** The available Read AI recording covered approximately the first 60 minutes of the meeting. This report is based on the shared chapter information, transcript excerpt, and official programme details. It is not intended to represent a complete verbatim transcript.
-
----
-
-## 9. Session Summary
+## 7. Session Summary
 
 Session 1 introduced the breadth of cybersecurity career pathways and the importance of combining professional exposure, practical experience, and structured education.
 
