@@ -1,7 +1,7 @@
 # Activity 01 — Professional Statement
 
 **Certificate:** Google Cybersecurity Professional Certificate  
-**Activity:** Draft a Professional Statement  
+**Activity:** Draft a Professional Statement 
 **Status:** Completed
 
 ## Activity Overview
