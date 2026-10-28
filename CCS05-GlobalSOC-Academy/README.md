@@ -6,7 +6,7 @@
 **Training Provider:** GlobalSOC Academy  
 **Dates:** 26 October – 3 November 2026  
 **Duration:** 14 Hours  
-**Format:** 7 Live Sessions and 5 Guided Practical Sessions  
+**Format:** 7 Live Sessions and 5 Guided Practical Sessions 
 **Status:** In Progress
 
 ---
