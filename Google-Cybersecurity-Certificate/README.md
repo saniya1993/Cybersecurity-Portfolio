@@ -1,6 +1,6 @@
 # Google Cybersecurity Professional Certificate
 
-**Provider:** Google / Coursera  
+**Provider:** Google / Coursera 
 **Status:** In Progress
 
 ## Overview
