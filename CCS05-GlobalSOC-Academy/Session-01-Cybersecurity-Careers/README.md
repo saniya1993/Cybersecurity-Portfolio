@@ -1,11 +1,17 @@
-# Session 01 — Overview of Cybersecurity Careers
+# Session 01 - Overview of Cybersecurity Careers
 
-**Programme:** CCS05 — Cybersecurity Training Programme
+**Programme:** CCS05 - Cybersecurity Training Programme
+
 **Training Provider:** GlobalSOC Academy
+
 **Date:** 26 October 2026
+
 **Time:** 6:00 PM – 8:00 PM
+
 **Platform:** Zoom
+
 **Topic:** Cybersecurity Career Pathways
+
 **Session Speaker:** Ayub Shaik
 
 ---
@@ -52,7 +58,7 @@ This framework was presented as a way to support participants in developing rele
 
 The session emphasised that cybersecurity is a broad field offering multiple career opportunities.
 
-Roles and domains explicitly mentioned in the available transcript included:
+Roles and domains explicitly mentioned in the session included:
 
 - Security Operations Centre (SOC) Analyst
 - Incident Response
