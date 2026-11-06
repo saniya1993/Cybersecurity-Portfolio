@@ -20,4 +20,4 @@ My goal is to leverage my technical expertise, analytical skills, and research e
 ### Professional Development
 
 - Google Cybersecurity Professional Certificate — In Progress
-- CCS05 Cybersecurity Training Programme, GlobalSOC Academy — In Progress
+- CCS05 Cybersecurity Training Programme, GlobalSOC Academy — Completed
