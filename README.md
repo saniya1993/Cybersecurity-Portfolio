@@ -60,7 +60,7 @@ Practical exercises and portfolio activities will be documented as they are comp
 **Provider:** GlobalSOC Academy  
 **Dates:** 26 October – 3 November 2026  
 **Duration:** 14 Hours  
-**Status:** In Progress
+**Status:** Completed
 
 Training topics:
 1. Cybersecurity Careers
